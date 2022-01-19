@@ -1,4 +1,4 @@
 DATA:
-  images_dir: "C:\\Users\\Alex\\Documents\\projects\\reefs\\train_images"
-  gt_path: "C:\\Users\\Alex\\Documents\\projects\\reefs\\train.csv"
-  visualize_dir: "C:\\Users\\Alex\\Documents\\projects\\reefs\\vis"
+  images_dir: "/kaggle/input/tensorflow-great-barrier-reef/train_images"
+  gt_path: "/kaggle/input/tensorflow-great-barrier-reef/train.csv"
+  visualize_dir: "/kaggle/working/vis"
